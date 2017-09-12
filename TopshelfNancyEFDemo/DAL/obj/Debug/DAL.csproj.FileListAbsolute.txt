@@ -1,0 +1,12 @@
+C:\Users\Jacob\source\repos\TopshelfNancyEFDemo\DAL\bin\Debug\DAL.dll.config
+C:\Users\Jacob\source\repos\TopshelfNancyEFDemo\DAL\bin\Debug\DAL.dll
+C:\Users\Jacob\source\repos\TopshelfNancyEFDemo\DAL\bin\Debug\DAL.pdb
+C:\Users\Jacob\source\repos\TopshelfNancyEFDemo\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Jacob\source\repos\TopshelfNancyEFDemo\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jacob\source\repos\TopshelfNancyEFDemo\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Jacob\source\repos\TopshelfNancyEFDemo\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jacob\source\repos\TopshelfNancyEFDemo\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\source\repos\TopshelfNancyEFDemo\DAL\obj\Debug\DAL.dll
+C:\Users\Jacob\source\repos\TopshelfNancyEFDemo\DAL\obj\Debug\DAL.pdb
+C:\Users\Jacob\source\repos\TopshelfNancyEFDemo\DAL\obj\Debug\DAL.Migrations.InitialCreate.resources
+C:\Users\Jacob\source\repos\TopshelfNancyEFDemo\DAL\obj\Debug\DAL.csproj.GenerateResource.Cache
